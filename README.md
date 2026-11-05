@@ -243,9 +243,6 @@ A hackathon development project exploring application development and backend im
 
 <div align="center">
 
-# ◈ 05 — GITHUB ACTIVITY
-
-<div align="center">
 
 ## ◈ 05 — GITHUB ACTIVITY
 
