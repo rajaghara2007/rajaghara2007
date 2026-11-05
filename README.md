@@ -1,24 +1,27 @@
- <!--
-  RAJAGHARA — FUTURE LAB
-  GitHub Profile README
-  Visual identity: Neural / Cyberpunk / Deep Space
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,20:111A3A,45:34206E,70:087EAA,100:050816&text=RAJAGHARA&fontSize=76&fontColor=EAFBFF&fontAlignY=42&desc=ENGINEERING%20TOMORROW%20%7C%20ONE%20LINE%20AT%20A%20TIME&descSize=15&descAlignY=62&animation=twinkling&stroke=00E5FF&strokeWidth=1" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=FULL+STACK+DEVELOPER+%2F%2F+SYSTEM+BUILDER;ASPIRING+AI+ENGINEER+%2F%2F+FUTURE+ARCHITECT;GENERATIVE+AI+%2F%2F+MACHINE+LEARNING+EXPLORER;DATA+SCIENCE+%2F%2F+FINDING+SIGNAL+IN+NOISE;IDEAS+IN.+INTELLIGENT+SYSTEMS+OUT." alt="Animated developer identity" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,35:101B3D,70:172554,100:00D9FF&text=RAJAGHARA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20DIGITAL%20EXPERIENCES%20BEYOND%20THE%20ORDINARY&descSize=13&descAlignY=60&animation=twinkling" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-00E5FF?style=flat-square&labelColor=080D1C" />
-<img src="https://img.shields.io/badge/MODE-INNOVATION-9B72FF?style=flat-square&labelColor=080D1C" />
-<img src="https://komarev.com/ghpvc/?username=rajaghara2007&style=flat-square&color=00E5FF&label=VISITORS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Creative+Developer+%26+Problem+Solver;Exploring+AI%2C+GenAI+%26+LLMs;Building+Immersive+Digital+Experiences;Turning+Ideas+Into+Reality" />
 
 <br/><br/>
 
-### `// NOT JUST WRITING CODE. ENGINEERING POSSIBILITIES.`
+<a href="https://github.com/rajaghara2007">
+<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
+<a href="https://github.com/rajaghara2007?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-050816?style=for-the-badge&logo=stackblitz&logoColor=00D9FF"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rajaghara2007&style=for-the-badge&color=101B3D&label=PROFILE+VISITORS" />
+
+<br/><br/>
+
+**DREAM IT. DESIGN IT. DEVELOP IT.**
 
 </div>
 
@@ -26,78 +29,67 @@
 
 <div align="center">
 
-## ◈ THE OPERATOR
+# ◈ 01 — THE PERSON BEHIND THE CODE
 
-*One mind. Multiple dimensions of engineering.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Curiosity+is+my+starting+point.;Creativity+is+my+direction.;Code+is+how+I+build+the+future." />
 
 </div>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  IDENTITY       RAJAGHARA                                    │
-│  PRIMARY ROLE   FULL STACK DEVELOPER                         │
-│  NEXT EVOLUTION AI ENGINEER + DATA SCIENCE ENGINEER          │
-│  INTERESTS      GENERATIVE AI / LLMs / ML / DATA             │
-│  PHILOSOPHY     BUILD > EXPERIMENT > LEARN > REPEAT           │
-│  DIRECTIVE      MAKE TECHNOLOGY FEEL LIKE THE FUTURE         │
-└─────────────────────────────────────────────────────────────┘
-```
+Hey! I'm **Rajaghara** 👋
 
-I'm a developer fascinated by the intersection of **engineering, intelligence, and imagination**.
+I'm a developer who enjoys transforming creative ideas into functional, visually engaging digital experiences.
 
-I build full-stack digital experiences, explore modern web technologies, and experiment with the possibilities of Artificial Intelligence.
+I believe great software is more than code that works — it's an experience people remember.
 
-My journey is expanding beyond conventional software development into:
+- 🚀 Building interactive and modern web experiences.
+- 🎨 Exploring creative UI/UX, 3D visuals, and motion design.
+- 💻 Developing with modern frontend and backend technologies.
+- 🧠 Exploring Artificial Intelligence, GenAI, LLMs, and Machine Learning.
+- 🌌 Interested in immersive interfaces and creative development.
+- 🤝 Open to interesting ideas, collaborations, and opportunities.
 
-- 🧠 **Artificial Intelligence** — building smarter applications.
-- ✨ **Generative AI** — exploring LLMs and AI-powered experiences.
-- 📊 **Data Science** — transforming raw information into insight.
-- 🤖 **Machine Learning** — understanding how machines learn.
-- 🌐 **Full Stack Engineering** — creating complete products, from interface to infrastructure.
-- 🎬 **Creative Development** — animation, 3D, motion, and immersive interfaces.
-
-My goal is to become an engineer who can build both the product and the intelligence behind it.
+> *"Don't just write code. Create something worth remembering."*
 
 ---
 
 <div align="center">
 
-## ◈ THE TECHNOLOGY MATRIX
+# ◈ 02 — MY DEVELOPER UNIVERSE
 
-`TOOLS ARE MY INSTRUMENTS. IDEAS ARE MY LIMITS.`
+*Different interests. One goal: build something meaningful.*
 
 </div>
 
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-**01 / CORE LANGUAGES**
+### ⚡ Full Stack Development
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" />
-
-**02 / FRONTEND SYSTEMS**
-
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,threejs&theme=dark" />
-
-**03 / MOTION & EXPERIENCE**
-
-<img src="https://skillicons.dev/icons?i=gsap&theme=dark" />
+Building modern, responsive, and functional web applications.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-**04 / BACKEND & DATA**
+### 🌌 Creative Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,mysql,supabase&theme=dark" />
+Exploring 3D experiences, animations, and immersive interfaces.
 
-**05 / AI & DATA SCIENCE**
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+### 🧠 Artificial Intelligence
 
-**06 / ENGINEERING TOOLS**
+Exploring GenAI, LLMs, and intelligent applications.
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm&theme=dark" />
+</td>
+<td width="50%" align="center">
+
+### 🎨 UI / UX
+
+Creating clean, intuitive, and memorable digital experiences.
 
 </td>
 </tr>
@@ -107,34 +99,82 @@ My goal is to become an engineer who can build both the product and the intellig
 
 <div align="center">
 
-## ◈ LIVE PROJECT TRANSMISSIONS
+# ◈ 03 — TECHNOLOGY ARSENAL
 
-`SELECTED MISSIONS FROM MY DEVELOPMENT UNIVERSE`
+*The tools behind the ideas.*
+
+<br/>
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
+
+<br/><br/>
+
+### FRAMEWORKS & LIBRARIES
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind,threejs&theme=dark" />
+
+<br/><br/>
+
+### CREATIVE TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=blender,figma&theme=dark" />
+
+<br/><br/>
+
+### DATABASE & WORKFLOW
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase,git,github,vscode,vercel&theme=dark" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=Always+learning.;Always+experimenting.;Always+building." />
 
 </div>
 
-<table width="100%">
+---
+
+<div align="center">
+
+# ◈ 04 — SELECTED MISSIONS
+
+*Where imagination meets implementation.*
+
+</div>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 01 — COSMIC PORTFOLIO
+### 🌌 COSMIC PORTFOLIO
 
-<img src="https://img.shields.io/badge/PROJECT-INTERACTIVE%20WEB-7B61FF?style=flat-square" />
+<img src="https://img.shields.io/badge/PROJECT-01-00D9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/3D-EXPERIENCE-101B3D?style=flat-square"/>
 
 </div>
 
-A creative portfolio project focused on immersive digital experiences and modern frontend presentation.
+An immersive personal portfolio designed to transform a traditional portfolio into an interactive journey through creativity, technology, and innovation.
 
-**TECHNOLOGY SIGNAL**
+**Highlights**
 
-`React` `Vite` `Three.js` `GSAP` `Framer Motion` `Tailwind CSS`
+- Immersive 3D environment.
+- Scroll-driven animations.
+- Interactive 3D elements.
+- Smooth scrolling and transitions.
+- Responsive layouts.
+- Cosmic-inspired visual design.
+
+**Technology**
+
+`React` `Vite` `Three.js` `GSAP` `Framer Motion` `Lenis` `Tailwind CSS`
 
 <div align="center">
 
 <a href="https://github.com/rajaghara2007/portfolio-website">
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-EXPLORE%20REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=050816"/>
 </a>
 
 </div>
@@ -144,22 +184,31 @@ A creative portfolio project focused on immersive digital experiences and modern
 
 <div align="center">
 
-### 02 — ODDO HACKATHON
+### 🚀 ODDO HACKATHON
 
-<img src="https://img.shields.io/badge/PROJECT-FULL%20STACK-00BFA6?style=flat-square" />
+<img src="https://img.shields.io/badge/PROJECT-02-00D9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/HACKATHON-EXPERIMENT-101B3D?style=flat-square"/>
 
 </div>
 
-A hackathon project exploring full-stack trip-planning functionality, structured data, and application workflows.
+A hackathon development project exploring application development and backend implementation.
 
-**TECHNOLOGY SIGNAL**
+**Exploration areas**
 
-`TypeScript` `Prisma` `Database` `Backend Engineering`
+- Backend development.
+- Database integration.
+- Prisma ORM.
+- Application data seeding.
+- Collaborative development.
+
+**Technology**
+
+`TypeScript` `Prisma` `Node.js ecosystem`
 
 <div align="center">
 
 <a href="https://github.com/rajaghara2007/oddo-hackathon">
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-EXPLORE%20REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=050816"/>
 </a>
 
 </div>
@@ -170,82 +219,23 @@ A hackathon project exploring full-stack trip-planning functionality, structured
 
 <div align="center">
 
-*More experiments are being engineered. The next transmission could be AI-powered.*
+### MORE FROM MY WORKSPACE
 
-</div>
-
----
-
-<div align="center">
-
-## ◈ THE NEXT FRONTIER
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,50:8B5CF6,100:00E5FF" />
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-### 🧠 INTELLIGENCE
-
-Generative AI
-
-LLMs
-
-Machine Learning
-
-</td>
-<td width="33%" align="center">
-
-### 📡 DISCOVERY
-
-Data Science
-
-Data Analysis
-
-AI Research
-
-</td>
-<td width="33%" align="center">
-
-### ⚡ CREATION
-
-Full Stack Apps
-
-Intelligent Products
-
-Creative Interfaces
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=900&color=9B72FF&center=true&vCenter=true&width=700&lines=LEARNING+WHAT+DOESN'T+EXIST+YET.;EXPERIMENTING+BEYOND+THE+COMFORT+ZONE.;TURNING+COMPLEX+IDEAS+INTO+REAL+SYSTEMS." />
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ GITHUB TELEMETRY
-
-`A SNAPSHOT OF MY OPEN-SOURCE JOURNEY`
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajaghara2007&show_icons=true&hide_border=true&bg_color=080D1C&title_color=00E5FF&icon_color=9B72FF&text_color=DCEBFF&ring_color=00E5FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaghara2007&layout=compact&hide_border=true&bg_color=080D1C&title_color=00E5FF&text_color=DCEBFF" />
+<a href="https://github.com/rajaghara2007/AegisLens">
+<img src="https://img.shields.io/badge/AEGISLENS-Explore-101B3D?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
+<a href="https://github.com/rajaghara2007/movie-react">
+<img src="https://img.shields.io/badge/MOVIE_REACT-Explore-101B3D?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
+<a href="https://github.com/rajaghara2007/task-arena-AI">
+<img src="https://img.shields.io/badge/TASK_ARENA_AI-Explore-101B3D?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+</a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=rajaghara2007&hide_border=true&background=080D1C&ring=00E5FF&fire=9B72FF&currStreakLabel=00E5FF&sideLabels=DCEBFF&dates=8090AA" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajaghara2007&bg_color=080D1C&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+<a href="https://github.com/rajaghara2007?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=050816"/>
+</a>
 
 </div>
 
@@ -253,29 +243,88 @@ Creative Interfaces
 
 <div align="center">
 
-## ◈ CONNECT TO THE NETWORK
+# ◈ 05 — GITHUB ACTIVITY
 
-*Great ideas become greater when minds collaborate.*
+*Every contribution is another step forward.*
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajaghara2007&bg_color=050816&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20TIMELINE" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajaghara2007&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaghara2007&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=rajaghara2007&theme=transparent&hide_border=true&background=050816&stroke=00D9FF&ring=00D9FF&fire=FFFFFF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B9BB4" />
+
+</div>
+
+---
+
+<div align="center">
+
+# ◈ 06 — CONTRIBUTION GALAXY
+
+*My coding journey, visualized.*
+
+<img src="https://raw.githubusercontent.com/rajaghara2007/rajaghara2007/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ◈ 07 — CURRENTLY IN ORBIT
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=550&lines=Exploring+the+world+of+AI.;Experimenting+with+immersive+web+design.;Learning+new+tools+and+technologies.;Turning+ambitious+ideas+into+projects." />
+
+<br/>
+
+| STATUS | EXPLORATION |
+|:---:|---|
+| 🔭 | Interactive web experiences |
+| 🌱 | AI, GenAI, LLMs, and Machine Learning |
+| 🎨 | 3D web experiences and creative animations |
+| ⚡ | Innovative projects and hackathons |
+| 🎯 | Building meaningful digital products |
+
+</div>
+
+---
+
+<div align="center">
+
+# ◈ 08 — LET'S CONNECT
+
+**Good ideas become better when people build them together.**
+
+Have an interesting project, an opportunity, or just want to talk about technology?
+
+Let's connect.
+
+<br/>
 
 <a href="https://github.com/rajaghara2007">
-<img src="https://img.shields.io/badge/GITHUB-080D1C?style=for-the-badge&logo=github&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-080D1C?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-080D1C?style=for-the-badge&logo=vercel&logoColor=9B72FF" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-080D1C?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
-</a>
+
+<!-- Add your LinkedIn and portfolio links when ready -->
 
 <br/><br/>
 
-### `01001000 01000101 01001100 01001100 01001111`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Dream+it.;Design+it.;Develop+it.;Deploy+it." />
 
-**THE FUTURE IS NOT A PLACE WE FIND. IT'S A SYSTEM WE BUILD.**
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:050816,35:111A3A,70:34206E,100:087EAA&animation=twinkling" width="100%" />
+**BUILD WITH PURPOSE. DESIGN WITH INTENT. THINK BEYOND LIMITS.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D9FF,45:101B3D,100:050816&section=footer&animation=twinkling"/>
+
+<sub>© Rajaghara · Crafted with curiosity, creativity, and code.</sub>
 
 </div>
