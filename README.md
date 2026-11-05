@@ -35,7 +35,7 @@
 
 </div>
 
-Hey! I'm **Rajaghara** 👋
+Hey! I'm **Raj Aghara** 👋
 
 I'm a developer who enjoys transforming creative ideas into functional, visually engaging digital experiences.
 
