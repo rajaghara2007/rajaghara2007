@@ -244,23 +244,7 @@ A hackathon development project exploring application development and backend im
 <div align="center">
 
 
-## ◈ 05 — GITHUB ACTIVITY
-
-*Every contribution is another step forward.*
-
-<img width="95%" src="aegis-lens.vercel.app" />
-
-<br/><br/>
-
-<img width="95%" src="labourmarketintelligence.vercel.app" />
-
-<br/><br/>
-
-<img width="75%" src="triporaai.vercel.app" />
-
-</div>
-
-# ◈ 06 — CONTRIBUTION GALAXY
+# ◈ 05 — CONTRIBUTION GALAXY
 
 *My coding journey, visualized.*
 
@@ -272,7 +256,7 @@ A hackathon development project exploring application development and backend im
 
 <div align="center">
 
-# ◈ 07 — CURRENTLY IN ORBIT
+# ◈ 06 — CURRENTLY IN ORBIT
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=550&lines=Exploring+the+world+of+AI.;Experimenting+with+immersive+web+design.;Learning+new+tools+and+technologies.;Turning+ambitious+ideas+into+projects." />
 
@@ -292,7 +276,7 @@ A hackathon development project exploring application development and backend im
 
 <div align="center">
 
-# ◈ 08 — LET'S CONNECT
+# ◈ 07 — LET'S CONNECT
 
 **Good ideas become better when people build them together.**
 
