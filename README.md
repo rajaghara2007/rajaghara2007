@@ -248,15 +248,15 @@ A hackathon development project exploring application development and backend im
 
 *Every contribution is another step forward.*
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=rajaghara2007&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
+<img width="95%" src="aegis-lens.vercel.app" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaghara2007&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" />
+<img width="95%" src="labourmarketintelligence.vercel.app" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=rajaghara2007&theme=transparent&hide_border=true" />
+<img width="75%" src="triporaai.vercel.app" />
 
 </div>
 
