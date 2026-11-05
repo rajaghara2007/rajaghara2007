@@ -245,27 +245,23 @@ A hackathon development project exploring application development and backend im
 
 # ◈ 05 — GITHUB ACTIVITY
 
+<div align="center">
+
+## ◈ 05 — GITHUB ACTIVITY
+
 *Every contribution is another step forward.*
 
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajaghara2007&bg_color=050816&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20TIMELINE" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=rajaghara2007&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajaghara2007&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaghara2007&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF" />
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaghara2007&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=rajaghara2007&theme=transparent&hide_border=true&background=050816&stroke=00D9FF&ring=00D9FF&fire=FFFFFF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B9BB4" />
+<img width="75%" src="https://streak-stats.demolab.com?user=rajaghara2007&theme=transparent&hide_border=true" />
 
 </div>
-
----
-
-<div align="center">
 
 # ◈ 06 — CONTRIBUTION GALAXY
 
